@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Rhymes With Diploma",
+	"icon": "https://micro.blog/tjluoma/avatar.jpg",
+	"home_page_url": "http://www.rhymeswithdiploma.com/",
+	"feed_url": "http://www.rhymeswithdiploma.com/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://tjluoma.micro.blog/2018/10/15/he-really-needs.html",
+	      	
+			"content_text": "He really needs to learn to relax.\n#shasta\n\n\n",
+			"date_published": "2018-10-15T01:10:28-04:00",
+			"url": "http://www.rhymeswithdiploma.com/2018/10/15/he-really-needs.html"
+		},
+		
+		{
+			"id": "http://tjluoma.micro.blog/2018/10/15/if-you-are.html",
+	      	
+			"title": "Hello (micro.blog) World!",
+			
+			"content_text": "If you are looking for older posts, they may be...",
+			"date_published": "2018-10-15T00:01:47-04:00",
+			"url": "http://www.rhymeswithdiploma.com/2018/10/15/if-you-are.html"
+		}
+		
+	]
+}
