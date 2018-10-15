@@ -2,16 +2,26 @@
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Rhymes With Diploma",
 	"icon": "https://micro.blog/tjluoma/avatar.jpg",
-	"home_page_url": "http://www.rhymeswithdiploma.com/",
-	"feed_url": "http://www.rhymeswithdiploma.com/archive/index.json",
+	"home_page_url": "https://www.rhymeswithdiploma.com/",
+	"feed_url": "https://www.rhymeswithdiploma.com/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://tjluoma.micro.blog/2018/10/15/due-schedule-call.html",
+	      	
+			"title": "Due Schedule Call",
+			
+			"content_text": "I often want to set a reminder to call someone...",
+			"date_published": "2018-10-15T03:11:51-04:00",
+			"url": "https://www.rhymeswithdiploma.com/2018/10/15/due-schedule-call.html"
+		},
 		
 		{
 			"id": "http://tjluoma.micro.blog/2018/10/15/he-really-needs.html",
 	      	
 			"content_text": "He really needs to learn to relax.\n#shasta\n\n\n",
 			"date_published": "2018-10-15T01:10:28-04:00",
-			"url": "http://www.rhymeswithdiploma.com/2018/10/15/he-really-needs.html"
+			"url": "https://www.rhymeswithdiploma.com/2018/10/15/he-really-needs.html"
 		},
 		
 		{
@@ -21,7 +31,7 @@
 			
 			"content_text": "If you are looking for older posts, they may be...",
 			"date_published": "2018-10-15T00:01:47-04:00",
-			"url": "http://www.rhymeswithdiploma.com/2018/10/15/if-you-are.html"
+			"url": "https://www.rhymeswithdiploma.com/2018/10/15/if-you-are.html"
 		}
 		
 	]
