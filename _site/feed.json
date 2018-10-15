@@ -1,0 +1,28 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Rhymes With Diploma",
+	"icon": "https://micro.blog/tjluoma/avatar.jpg",
+	"home_page_url": "http://www.rhymeswithdiploma.com/",
+	"feed_url": "http://www.rhymeswithdiploma.com/feed.json",
+	"items": [
+		
+		{
+			"id": "http://tjluoma.micro.blog/2018/10/15/he-really-needs.html",
+	      	
+			"content_html": "<p>He really needs to learn to relax.\n#shasta</p>\n\n<p><img src=\"http://tjluoma.micro.blog/uploads/2018/f047eeb94d.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-15T01:10:28-04:00",
+			"url": "http://www.rhymeswithdiploma.com/2018/10/15/he-really-needs.html"
+		},
+		
+		{
+			"id": "http://tjluoma.micro.blog/2018/10/15/if-you-are.html",
+	      	
+			"title": "Hello (micro.blog) World!",
+			
+			"content_html": "<p>If you are looking for older posts, they may be available at &lt;<a href=\"https://tjluoma.tumblr.com/\">tjluoma.tumblr.com</a>&gt;.</p>\n\n<p>I got fed up with Tumblr’s “quirks” and decided to try something new.</p>\n",
+			"date_published": "2018-10-15T00:01:47-04:00",
+			"url": "http://www.rhymeswithdiploma.com/2018/10/15/if-you-are.html"
+		}
+		
+	]
+}
