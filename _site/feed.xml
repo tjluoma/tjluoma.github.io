@@ -3,9 +3,145 @@
   <channel>
     <title>Rhymes With Diploma</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/tjluoma&quot;&gt;@tjluoma on Micro.blog&lt;/a&gt;.</description>
-    <link>http://www.rhymeswithdiploma.com/</link>
-    <pubDate>Mon, 15 Oct 2018 01:25:24 -0400</pubDate>
-    <lastBuildDate>Mon, 15 Oct 2018 01:25:24 -0400</lastBuildDate>
+    <link>https://www.rhymeswithdiploma.com/</link>
+    <pubDate>Mon, 15 Oct 2018 19:43:48 -0400</pubDate>
+    <lastBuildDate>Mon, 15 Oct 2018 19:43:48 -0400</lastBuildDate>
+    
+      <item>
+      	
+        <title>Due Schedule Call</title>
+        
+        <description>&lt;p&gt;I often want to set a reminder to call someone at a specific time.&lt;/p&gt;
+
+&lt;p&gt;In the past, what I have done is gone to &lt;a href=&quot;https://www.dueapp.com&quot;&gt;Due&lt;/a&gt; and added a note which would say something like “Call AppleCare” and then set the time/date when I want to be reminded.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(If you haven’t used Due, one of the things everyone loves about it is that it will keep reminding you to do something until you actually do it. You can have the reminders repeat every minute, every 5, 15, 30, etc. It’s the most-reliable way to get yourself to do something at a specific time or close to it.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The problem with my method has always been that the reminder would do off, and then I’d have to do to the phone app, look up the person I wanted to call, and then select the phone number.&lt;/p&gt;
+
+&lt;p&gt;It’s that little bit of friction that doesn’t seem like much, but can make you resistant to actually doing the thing you need to do when the reminder goes off. Also, it’s easy (at least for me) to get distracted after I’ve dismissed the reminder from Due but before I actually make the call.&lt;/p&gt;
+
+&lt;h3 id=&quot;til-due-has-a-feature-to-make-this-easier&quot;&gt;TIL: Due has a feature to make this easier.&lt;/h3&gt;
+
+&lt;p&gt;I’m sure this is mentioned in the documentation somewhere, but I stumbled across it by accident.&lt;/p&gt;
+
+&lt;p&gt;I set a reminder in Due, but &lt;em&gt;this time&lt;/em&gt; I added the phone number of the person I needed to call in the reminder in Due. When I dismissed the reminder in Due, it automatically prompted me to call the number.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Obviously, that’s much better.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Having the number &lt;em&gt;right there&lt;/em&gt; means no searching for it, I can just do it. The friction has been removed.&lt;/p&gt;
+
+&lt;p&gt;The only problem is that in order to do that, I needed to copy the phone number from my Contacts.app into Due.&lt;/p&gt;
+
+&lt;p&gt;Which means that I &lt;em&gt;won’t&lt;/em&gt; actually put the phone number into Due very often, even though I &lt;em&gt;know&lt;/em&gt; it would make things easier for me later on.&lt;/p&gt;
+
+&lt;h3 id=&quot;complication-2-google-voice&quot;&gt;Complication #2: Google Voice&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;(Note: Even if you don’t use Google Voice, there is an option of this shortcut for you. Keep reading!)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Adding to my resistance is the fact that many of the calls that I make are actually not made with via the iOS Phone.app.&lt;/p&gt;
+
+&lt;p&gt;I use Google Voice for all of my calls related to my day-job, and I need/want to use Google Voice for those calls because then the caller-ID will show the phone number that work-related people have for me, instead of my actual iPhone number.&lt;/p&gt;
+
+&lt;p&gt;So there’s &lt;em&gt;another&lt;/em&gt; piece of friction.&lt;/p&gt;
+
+&lt;p&gt;If only there was some way to make this easier…&lt;/p&gt;
+
+&lt;h3 id=&quot;cue-shortcuts&quot;&gt;Cue “Shortcuts”&lt;/h3&gt;
+
+&lt;p&gt;As most of the people who are reading this probably know, Apple just introduced an app called “Shortcuts” which is basically version 2 of an app which was previously not-by-Apple. Version 1 of the app was called “Workflow”.&lt;/p&gt;
+
+&lt;p&gt;I never really used Workflow much. Although Apple had approved it and let it into the App Store, I was &lt;em&gt;certain&lt;/em&gt; that Apple would eventually kick it out of the App Store, and then I would be sad if I had built a bunch of things with it.&lt;/p&gt;
+
+&lt;p&gt;Well, as it turns out, not only was I wrong, but I was wrong in about as big of a way as possible. Instead of kicking Workflow out of the App Store, Apple &lt;em&gt;bought&lt;/em&gt; Workflow, and renamed it “Shortcuts” which is now available for iOS 12.&lt;/p&gt;
+
+&lt;p&gt;Now that it is an official Apple app, I decided to start using it. But this was the first time that I had a problem that I really wanted to solve with automation on the iPhone:&lt;/p&gt;
+
+&lt;h3 id=&quot;how-can-i-make-it-easier-to-schedule-calls-on-my-iphone&quot;&gt;“How can I make it easier to schedule calls on my iPhone?”&lt;/h3&gt;
+
+&lt;p&gt;I was poking around in Shortcuts when I realized that I could send the name and phone number of a contact to Due fairly easily.&lt;/p&gt;
+
+&lt;p&gt;All I had to do was choose the person from my Contacts.app, and the shortcut could automatically copy the name &lt;em&gt;and&lt;/em&gt; phone number, and sent both pieces of information to Due. Then all I had to do was pick a date/time for the reminder.&lt;/p&gt;
+
+&lt;p&gt;But what about Google Voice? Unfortunately the official Google Voice app doesn’t support Shortcuts (yet?), but there is another iPhone app for Google Voice called &lt;a href=&quot;http://gvconnect.com&quot;&gt;GV Connect&lt;/a&gt; which has an URL scheme, meaning that we can use it with Shortcuts.&lt;/p&gt;
+
+&lt;h3 id=&quot;due-schedule-call&quot;&gt;“Due Schedule Call”&lt;/h3&gt;
+
+&lt;p&gt;Putting all of this together, I made my first real Shortcut, which has 3 (or possibly 4) steps.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Select a contact from my contacts list&lt;/li&gt;
+  &lt;li&gt;If the contact has more than one phone number, it will prompt you to choose which one to use.&lt;/li&gt;
+  &lt;li&gt;Next it will ask if you want to use Google Voice or the regular Phone app&lt;/li&gt;
+  &lt;li&gt;Finally it will send that information to Due, so you can set a time/date for the reminder.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Step #2 was the last piece that I figured out. If I didn’t have some way to have the user choose a phone number, I was either left with the option of sending &lt;em&gt;all&lt;/em&gt; of the phone numbers to Due (which was a terrible idea) or just automatically picking the first one (which wasn’t a great idea, although better than the previous alternative).&lt;/p&gt;
+
+&lt;p&gt;After that, the real magic happens between steps 3 and 4, and it happens completely in the background.&lt;/p&gt;
+
+&lt;p&gt;If I choose the Phone.app, the shortcut just sends the name and number to Due. But, if I choose Google Voice, the shortcut reformats the phone number into the proper syntax for GV Connect, and includes that in the reminder text that is sent to Due.&lt;/p&gt;
+
+&lt;p&gt;By front-loading all of the decisions into the first part of the process (making the reminder), I have made it easier for Future-Me to actually make the phone call. It’s easier than it has ever been.&lt;/p&gt;
+
+&lt;p&gt;When I “check off” the reminder, Due will let me trigger the call with almost zero effort.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For the first time &lt;em&gt;ever&lt;/em&gt; it is &lt;em&gt;just as easy&lt;/em&gt; for me to use Google Voice as it is to use the built-in Phone app!&lt;/strong&gt;&lt;sup id=&quot;fnref:actually&quot;&gt;&lt;a href=&quot;#fn:actually&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;see-for-yourself&quot;&gt;See For Yourself&lt;/h3&gt;
+
+&lt;p&gt;I made a short (about 1 minute) screencast of this shortcut in action.&lt;/p&gt;
+
+&lt;p&gt;In it, I setup 2 reminders:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I selected a contact named “Apple” (which has multiple phone numbers) and scheduled a call to be made with the Phone app.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I selected a contact named “AppleCare” (which only has 1 phone number) and scheduled a call to be made via GV Connect.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;You can see it here:&lt;/p&gt;
+
+&lt;div style=&quot;padding:100% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/295111732&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;script src=&quot;https://player.vimeo.com/api/player.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;(Be sure to make it full-screen so you can see things more easily.)&lt;/p&gt;
+
+&lt;p&gt;You can &lt;a href=&quot;https://www.icloud.com/shortcuts/02041c70daf54044aa1e3cf3a055245a&quot;&gt;get the shortcut here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;thanks&quot;&gt;Thanks&lt;/h3&gt;
+
+&lt;p&gt;Thanks to Andreas Amann, GV Connect’s developer, who helped improve this shortcut.&lt;/p&gt;
+
+&lt;p&gt;Thanks also to Raymond Velasquez who helped me solve another part of the puzzle via a post on &amp;lt;&lt;a href=&quot;https://talk.automators.fm&quot;&gt;talk.automators.fm&lt;/a&gt;&amp;gt;, which is a great place to get automation help for iOS or Mac.&lt;/p&gt;
+
+&lt;p&gt;As a final side note: if you aren’t listening to &lt;a href=&quot;https://www.relay.fm/automators&quot;&gt;Automators&lt;/a&gt; with &lt;a href=&quot;https://rosemaryorchard.com&quot;&gt;Rose Orchard&lt;/a&gt; and &lt;a href=&quot;https://www.macsparky.com&quot;&gt;David Sparks&lt;/a&gt;, you really should be.&lt;/p&gt;
+
+&lt;h3 id=&quot;update-2018-10-13&quot;&gt;Update 2018-10-13&lt;/h3&gt;
+
+&lt;p&gt;It occurs to me that this shortcut might be useful to more people if I offered a variant &lt;em&gt;without&lt;/em&gt; the Google Voice portion. After all, if you don’t use Google Voice, there’s no sense in having to choose the phone app each time this shortcut runs.&lt;/p&gt;
+
+&lt;p&gt;So I made a version without Google Voice. You can find it here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.icloud.com/shortcuts/06e9d83b9e4f471eb32a069da943bcf9&quot;&gt;Due Schedule Call (without Google Voice)&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:actually&quot;&gt;
+      &lt;p&gt;In fact, it’s actually one less tap to use Google Voice rather than the regular phone app, because when you use the Phone app, Due offers to let you call or message the phone number, whereas with GV Connect I can specify that I want to make a call, not send an SMS. &lt;a href=&quot;#fnref:actually&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 15 Oct 2018 03:11:51 -0400</pubDate>
+        <link>https://www.rhymeswithdiploma.com/2018/10/15/due-schedule-call.html</link>
+        <guid isPermaLink="true">http://tjluoma.micro.blog/2018/10/15/due-schedule-call.html</guid>
+      </item>
     
       <item>
       	
@@ -15,7 +151,7 @@
 &lt;p&gt;&lt;img src=&quot;http://tjluoma.micro.blog/uploads/2018/f047eeb94d.jpg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Oct 2018 01:10:28 -0400</pubDate>
-        <link>http://www.rhymeswithdiploma.com/2018/10/15/he-really-needs.html</link>
+        <link>https://www.rhymeswithdiploma.com/2018/10/15/he-really-needs.html</link>
         <guid isPermaLink="true">http://tjluoma.micro.blog/2018/10/15/he-really-needs.html</guid>
       </item>
     
@@ -28,7 +164,7 @@
 &lt;p&gt;I got fed up with Tumblr’s “quirks” and decided to try something new.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Oct 2018 00:01:47 -0400</pubDate>
-        <link>http://www.rhymeswithdiploma.com/2018/10/15/if-you-are.html</link>
+        <link>https://www.rhymeswithdiploma.com/2018/10/15/if-you-are.html</link>
         <guid isPermaLink="true">http://tjluoma.micro.blog/2018/10/15/if-you-are.html</guid>
       </item>
     
