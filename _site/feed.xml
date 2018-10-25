@@ -4,8 +4,8 @@
     <title>Rhymes With Diploma</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/tjluoma&quot;&gt;@tjluoma on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.rhymeswithdiploma.com/</link>
-    <pubDate>Tue, 23 Oct 2018 14:46:25 -0400</pubDate>
-    <lastBuildDate>Tue, 23 Oct 2018 14:46:25 -0400</lastBuildDate>
+    <pubDate>Thu, 25 Oct 2018 16:57:42 -0400</pubDate>
+    <lastBuildDate>Thu, 25 Oct 2018 16:57:42 -0400</lastBuildDate>
     
       <item>
       	
@@ -61,7 +61,7 @@
 
 &lt;p&gt;Something made me remember that I used to be able to send links from Safari to iCab by using a bookmarklet which changed “http:“ to “web:“ and “https:“ to “webs:“. I changed my shortcut (using “Replace Text”) to change those protocols before opening the URLs, and suddenly I could open the page in iCab too.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;That&lt;/em&gt; made me remember that 1Password also had a way to open URLs in its built-in browser., but I couldn’t remember what it was, and “onepassword:“ didn’t seem to work. However, a little Googling led me to a &lt;a href=&quot;https://www.macstories.net/links/1password-4-1/&quot;&gt;MacStories post from 5½ years ago&lt;/a&gt; which reminded me that the protocols I needed were “ophttp:“ and “ophttps:.  I had a vague memory that 1Password had deprecated support for opening URLs this way, but it still works.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;That&lt;/em&gt; made me remember that 1Password also had a way to open URLs in its built-in browser., but I couldn’t remember what it was, and “onepassword:” didn’t seem to work. However, a little Googling led me to a &lt;a href=&quot;https://www.macstories.net/links/1password-4-1/&quot;&gt;MacStories post from 5½ years ago&lt;/a&gt; which reminded me that the protocols I needed were “ophttp:” and “ophttps”.  I had a vague memory that 1Password had deprecated support for opening URLs this way, but it still works.&lt;/p&gt;
 
 &lt;h3 id=&quot;the-end-result&quot;&gt;The End Result&lt;/h3&gt;
 
@@ -79,7 +79,7 @@
     
       <item>
       	
-        <title>Due Schedule Call</title>
+        <title>Shortcut: Due Schedule Call</title>
         
         <description>&lt;p&gt;I often want to set a reminder to call someone at a specific time.&lt;/p&gt;
 
