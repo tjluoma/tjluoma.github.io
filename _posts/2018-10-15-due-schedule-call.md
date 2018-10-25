@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Due Schedule Call"
+title: "Shortcut: Due Schedule Call"
 microblog: false
 audio: 
 date: 2018-10-15 03:11:51 -0400
 guid: http://tjluoma.micro.blog/2018/10/15/due-schedule-call.html
 ---
-
 I often want to set a reminder to call someone at a specific time.
 
 In the past, what I have done is gone to [Due](https://www.dueapp.com) and added a note which would say something like "Call AppleCare" and then set the time/date when I want to be reminded.
