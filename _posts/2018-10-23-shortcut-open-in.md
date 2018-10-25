@@ -57,7 +57,7 @@ Finally, I decided to implement a decidedly-stupid workaround which works: I cre
 
 Something made me remember that I used to be able to send links from Safari to iCab by using a bookmarklet which changed “http:“ to “web:“ and “https:“ to “webs:“. I changed my shortcut (using “Replace Text”) to change those protocols before opening the URLs, and suddenly I could open the page in iCab too.
 
-_That_ made me remember that 1Password also had a way to open URLs in its built-in browser., but I couldn’t remember what it was, and “onepassword:“ didn’t seem to work. However, a little Googling led me to a [MacStories post from 5½ years ago](https://www.macstories.net/links/1password-4-1/) which reminded me that the protocols I needed were “ophttp:“ and “ophttps:.  I had a vague memory that 1Password had deprecated support for opening URLs this way, but it still works.
+_That_ made me remember that 1Password also had a way to open URLs in its built-in browser., but I couldn’t remember what it was, and “onepassword:” didn’t seem to work. However, a little Googling led me to a [MacStories post from 5½ years ago](https://www.macstories.net/links/1password-4-1/) which reminded me that the protocols I needed were “ophttp:” and “ophttps”.  I had a vague memory that 1Password had deprecated support for opening URLs this way, but it still works.
 
 ### The End Result
 
