@@ -3,6 +3,7 @@ layout: post
 title: "Shortcut: Open in Browser"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-23 14:44:58 -0400
 guid: http://tjluoma.micro.blog/2018/10/23/shortcut-open-in.html
 ---
