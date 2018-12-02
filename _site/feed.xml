@@ -4,8 +4,104 @@
     <title>Rhymes With Diploma</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/tjluoma&quot;&gt;@tjluoma on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.rhymeswithdiploma.com/</link>
-    <pubDate>Thu, 25 Oct 2018 16:57:42 -0400</pubDate>
-    <lastBuildDate>Thu, 25 Oct 2018 16:57:42 -0400</lastBuildDate>
+    <pubDate>Sun, 02 Dec 2018 17:15:58 -0500</pubDate>
+    <lastBuildDate>Sun, 02 Dec 2018 17:15:58 -0500</lastBuildDate>
+    
+      <item>
+      	
+        <title>Download High Sierra</title>
+        
+        <description>&lt;p&gt;In an unusual move, Apple has removed Sierra and High Sierra from the “Purchased” tab in the App Store, even if you had “purchased” and downloaded them previously.&lt;/p&gt;
+
+&lt;p&gt;Links for OS X Lion, OS X Mountain Lion, OS X Mavericks, OS X Yosemite, and OS X El Capitan all remain in the “Purchased” tab, but Sierra and High Sierra are gone.&lt;/p&gt;
+
+&lt;p&gt;Why? ` ¯_(ツ)_/¯ `&lt;/p&gt;
+
+&lt;p&gt;Fortunately, it is still possible to download Sierra and High Sierra, if you have a direct link.&lt;/p&gt;
+
+&lt;p&gt;You can find these through Apple‘s support site, but they are not always easy to find. For example, some Apple support pages which &lt;em&gt;previously&lt;/em&gt; explained how to download &lt;em&gt;High Sierra&lt;/em&gt; have been updated to explain how to download &lt;em&gt;Mojave&lt;/em&gt;. (As if anyone would need help figuring out how to download Mojave when it is being advertised so heavily in the Mac App Store.)&lt;/p&gt;
+
+&lt;p&gt;If you need or want to download Sierra / High Sierra, here are the links you can use:&lt;/p&gt;
+
+&lt;h2 id=&quot;high-sierra&quot;&gt;High Sierra&lt;/h2&gt;
+
+&lt;p&gt;Official Support Page: &amp;lt;&lt;a href=&quot;https://support.apple.com/macos/high-sierra&quot;&gt;support.apple.com/macos/hig…&lt;/a&gt;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Mac App Store link: &amp;lt;macappstore://itunes.apple.com/app/id1246284741&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;iTunes/Web Browser: &amp;lt;&lt;a href=&quot;https://itunes.apple.com/us/app/macos-high-sierra/id1246284741?mt=12&quot;&gt;itunes.apple.com/us/app/ma…&lt;/a&gt;&amp;gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sierra&quot;&gt;Sierra&lt;/h2&gt;
+
+&lt;p&gt;Official Support Page: &amp;lt;&lt;a href=&quot;https://support.apple.com/en-us/HT208202&quot;&gt;support.apple.com/en-us/HT2…&lt;/a&gt;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;Mac App Store link: &amp;lt;macappstore://itunes.apple.com/app/id1127487414&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;iTunes/Web Browser: &amp;lt;&lt;a href=&quot;https://itunes.apple.com/us/app/macos-sierra/id1127487414?mt=12&quot;&gt;itunes.apple.com/us/app/ma…&lt;/a&gt;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(The “iTunes/Web Browser” links will just launch the App Store app, so you’re somewhat better off just using the &lt;code class=&quot;highlighter-rouge&quot;&gt;macappstore&lt;/code&gt; links, if they work.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-command-line-tool-mas&quot;&gt;The command-line tool &lt;code class=&quot;highlighter-rouge&quot;&gt;mas&lt;/code&gt;&lt;/h2&gt;
+
+&lt;p&gt;If you use &lt;a href=&quot;https://github.com/mas-cli/mas&quot;&gt;mas&lt;/a&gt; you should be able to download Sierra and High Sierra using these commands:&lt;/p&gt;
+
+&lt;p&gt;To download Sierra:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	mas install 1127487414
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;To download High Sierra:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;	mas install 1246284741
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Note that &lt;code class=&quot;highlighter-rouge&quot;&gt;mas&lt;/code&gt; can usually only re-download apps that you have previously “bought” through the Mac App Store, so if you have never “bought” Sierra/High Sierra before, you may need to do that through the App Store app.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-panic&quot;&gt;Don’t Panic&lt;/h2&gt;
+
+&lt;p&gt;I wouldn’t panic and say that Apple is going to make it impossible to download Sierra or High Sierra any time soon. After all, links to older versions of the OS are still readily available. Still, it &lt;em&gt;is&lt;/em&gt; strange that these two were removed from the “Purchased” tab.&lt;/p&gt;
+
+&lt;p&gt;I have downloaded both installers locally, just in case I need them in the future. (I‘m sticking with High Sierra for now anyway, and hoping that Mojave will &lt;a href=&quot;https://www.shirt-pocket.com/blog/index.php/shadedgrey/comments/macos_mojave_opening_new_vistas_in_security_for_mac_users/&quot;&gt;outgrow its Windows Vista-ness&lt;/a&gt; before I find myself needing to upgrade.)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Dec 2018 17:15:12 -0500</pubDate>
+        <link>https://www.rhymeswithdiploma.com/2018/12/02/download-high-sierra.html</link>
+        <guid isPermaLink="true">http://tjluoma.micro.blog/2018/12/02/download-high-sierra.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Prevent Automatic Downloads in macOS</title>
+        
+        <description>&lt;p&gt;Quoting Apple’s own support document: &lt;a href=&quot;https://support.apple.com/en-us/HT207251&quot;&gt;Prevent your Mac from downloading updates in the background&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;You can set your App Store preferences to “Download newly available updates in the background”. If you’re using OS X El Capitan v10.11.5 or later, these updates include major new macOS versions, like macOS Sierra. Your Mac then notifies you when the updates are ready to install.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a not-good decision, Apple.&lt;/p&gt;
+
+&lt;p&gt;There is a difference between these two things:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to automatically download updates to my computer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I want to automatically download a 5+ GB new version of the operating system.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And that difference is obvious to just about everyone.&lt;/p&gt;
+
+&lt;p&gt;There ought to be a separate option for the latter choice.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 25 Oct 2018 17:31:04 -0400</pubDate>
+        <link>https://www.rhymeswithdiploma.com/2018/10/25/prevent-automatic-downloads.html</link>
+        <guid isPermaLink="true">http://tjluoma.micro.blog/2018/10/25/prevent-automatic-downloads.html</guid>
+      </item>
     
       <item>
       	
