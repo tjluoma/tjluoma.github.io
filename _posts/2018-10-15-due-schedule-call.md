@@ -3,6 +3,7 @@ layout: post
 title: "Shortcut: Due Schedule Call"
 microblog: false
 audio: 
+photo: 
 date: 2018-10-15 03:11:51 -0400
 guid: http://tjluoma.micro.blog/2018/10/15/due-schedule-call.html
 ---
